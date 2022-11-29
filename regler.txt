@@ -21,3 +21,4 @@ Tex ligger tre förslag från tre partier och dessa fick A: 40%, B: 20%, och C: 
 	§1.4	I valet får alla spelare rösta.
 	§1.5	!! Röstar man inte räknas rösten som att man röstar på Varulvspartiet.
 	§1.6	!! Spelledare är allsmäktiga
+	1.7     !! AWS FTW

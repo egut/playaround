@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Missade detta
-=======
-Hej!
-Silverpilen är en katt
-
->>>>>>> Johannas
+Nu testar vi om det här går

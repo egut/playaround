@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Missade detta
+=======
+Hej!
+Silverpilen är en katt
+
+>>>>>>> Johannas
